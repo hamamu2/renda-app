@@ -1,7 +1,7 @@
 {
   "Keyboard or Mouse" :"m",
 
-  "Use_Key"           :"Key.insert",
+  "Use_Key"           :"insert",
   "Mouse_Click"       :"left",
   "Press_Key"         :"a"
 
