@@ -3,6 +3,6 @@
 
   "Use_Key"           :"Key.insert",
   "Mouse_Click"       :"left",
-  "Press_Key"         :Key.f11
+  "Press_Key"         :"a"
 
 }
