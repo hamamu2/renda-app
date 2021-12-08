@@ -1,0 +1,8 @@
+{
+  "Keyboard or Mouse" :"m",
+
+  "Use_Key"           :"Key.insert",
+  "Mouse_Click"       :"left",
+  "Press_Key"         :Key.f11
+
+}

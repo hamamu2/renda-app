@@ -1,0 +1,2 @@
+py renda.py
+pause
